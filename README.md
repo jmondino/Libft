@@ -1,2 +1,4 @@
-# Libft
-Second main branch project at 42
+# Libft  
+
+Libft is a personnal library with some libc function recoded by me.  
+This lib should provide functions that we will use for every next c project, and should be fed with new functions.
